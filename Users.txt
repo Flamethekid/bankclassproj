@@ -1,0 +1,6 @@
+{'ID': 'Flame', 'name': 'Melvin Nyamekye', 'password': 'Password', 'accountnum': '68068188', 'Money': 0}
+{'ID': 'Tony1', 'name': 'bob  brown', 'password': 'player', 'accountnum': '50363968', 'Money': 0}
+{'ID': 'Flame', 'name': 'melvin nyamekye', 'password': 'pussy', 'accountnum': '34792484', 'Money': 0}
+{'ID': 'Ass', 'name': 'Edward Pussy', 'password': 'suzzy', 'accountnum': '48964490', 'Money': 0}
+
+{'ID': 'Username1', 'name': 'FirstName1 LastName1', 'password': 'Password1', 'accountnum': '39200235', 'Money': 0}
